@@ -1,0 +1,11 @@
+node_modules/
+out/
+dist/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+Thumbs.db
+.claude/
+*.tsbuildinfo
+*.pdf
